@@ -1,7 +1,8 @@
-![calculator-with-some-animated-tech-stuff](https://github.com/Saani765/calculator-python/assets/98387792/eda13ce7-afa3-4d2a-b068-c4dbe774c08f)
+
 
 
 📲Title: Python Calculator using a Stack Data Structure
+![calculator-with-some-animated-tech-stuff](https://github.com/Saani765/python-calculator-/assets/98387792/4b2108bc-a7e0-47f0-8cdb-a4f95b9aad50)
 
 📑Summary:
 The Python Calculator project is a command-line application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It utilizes a stack data structure to efficiently handle the calculation process.
